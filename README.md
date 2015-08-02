@@ -23,3 +23,8 @@ License.
 
 ###Mozilla Public License 2.0
 - myvim   http://sourceforge.net/projects/viex
+
+    ---
+    There is no concrete information about the specific License used for the `VimWrapper`
+    project by [bluebird75](https://github.com/bluebird75); it's hosted on
+    [freehackers.org](http://www.freehackers.org/VimWrapper).
