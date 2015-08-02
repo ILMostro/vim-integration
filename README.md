@@ -13,6 +13,9 @@ projects, though, they *do* have various Licenses associated with them:
 - vimoop  http://sourceforge.net/projects/vimoop
 
 ###Eclipse Public License
+According to the [Open Source Initiative](http://opensource.org/licenses/cpl1.0.php), the
+Common Public License (CPL-1.0) has been superseded by the Eclipse Public
+License.
 - viPlugin  http://sourceforge.net/projects/viplugin
 
 ###Mozilla Public License 1.1
