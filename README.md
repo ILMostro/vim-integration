@@ -1,7 +1,7 @@
 # vim-integration
 A set of various projects that have tried to integrate Vi/Vim into IDEs.
 Most of these projects are/were hosted on sourceforge. They are OpenSource
-projects, though, they *do* have various Licenses associated with them:
+projects, though, they *do* have different Licenses associated with them:
 
 ###GNU Public License version 2
 - vimplugin   http://sourceforge.net/projects/vimplugin
@@ -25,6 +25,8 @@ License.
 - myvim   http://sourceforge.net/projects/viex
 
     ---
+
+    ####*Missing License Info*
     There is no concrete information about the specific License used for the `VimWrapper`
     project by [bluebird75](https://github.com/bluebird75); it's hosted on
     [freehackers.org](http://www.freehackers.org/VimWrapper).
